@@ -1,5 +1,5 @@
 /*  ---------------------------------------------------
-    Bhavi Political and Social Media Management
+    Bhavesh Production
     Custom JavaScript for portfolio website
 ---------------------------------------------------------  */
 'use strict';
